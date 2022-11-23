@@ -1,0 +1,15 @@
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\bin\Debug\net6.0\HelloCode001.exe
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\bin\Debug\net6.0\HelloCode001.deps.json
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\bin\Debug\net6.0\HelloCode001.runtimeconfig.json
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\bin\Debug\net6.0\HelloCode001.dll
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\bin\Debug\net6.0\HelloCode001.pdb
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\obj\Debug\net6.0\HelloCode001.csproj.AssemblyReference.cache
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\obj\Debug\net6.0\HelloCode001.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\obj\Debug\net6.0\HelloCode001.AssemblyInfoInputs.cache
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\obj\Debug\net6.0\HelloCode001.AssemblyInfo.cs
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\obj\Debug\net6.0\HelloCode001.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\obj\Debug\net6.0\HelloCode001.dll
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\obj\Debug\net6.0\refint\HelloCode001.dll
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\obj\Debug\net6.0\HelloCode001.pdb
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\obj\Debug\net6.0\HelloCode001.genruntimeconfig.cache
+D:\GB\Знакомство с языками программирования (лекции)\Example\HelloCode001\obj\Debug\net6.0\ref\HelloCode001.dll
